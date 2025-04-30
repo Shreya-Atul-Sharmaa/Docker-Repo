@@ -4,7 +4,7 @@ This repository contains multiple small Dockerized projects to demonstrate profi
 
 ## Projects
 
-- [Flask App](./flask-app): A Python Flask web application containerized with Docker.
+- [Flask App](./Flask-App): A Python Flask web application containerized with Docker.
 - [Nginx Static Site](./nginx-static-site): A basic static website served via Nginx container.
 - [Node.js API](./nodejs-api): A simple Node.js Express API.
 
